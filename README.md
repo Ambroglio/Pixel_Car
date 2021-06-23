@@ -20,6 +20,8 @@ A car has the following properties :
 - A **brand** *(Mercedes, Audi, BMW (because we like Germany))* 
 - A **price**
 
+A brand cannot change for a specific car, just as its registration number.
+
 ## Stack Overflow sources 
 
 These are the documents I used in order to fix problems :
